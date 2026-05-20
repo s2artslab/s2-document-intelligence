@@ -162,6 +162,13 @@ This Community Edition is powerful but focused on core processing. Advanced feat
 - 💼 Commercial SaaS products
 - 🔒 Compliance-critical applications
 
+### S² ecosystem: communication / evidence workflows
+
+Downstream tools (for example **Sharayah GSU dashboard** content-package exports) can attach
+`layout_json` from this service as **primary sources** in a handoff bundle. Planned enhancements:
+**claim-level tagging** (assertion vs quote vs data), **redaction helpers** before client share, and
+**version diff** between two processed documents for policy and PR teams.
+
 ---
 
 ## 🤝 Contributing
